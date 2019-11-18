@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/Brujita.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/explosion.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/Fantasma.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/FondoA.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/murcielago.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/Rayo.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Fonts/Verdana</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Audio/explosionS.wav</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Audio/gritodebruja.wav</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Audio/Hechizo.wav</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Audio/musicaambientalbruja.mp3</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/explosionS.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/gritodebruja.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/Hechizo.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/musicaambientalbruja.mp3</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/Laser.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/explosion.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/Fantasma.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/FondoA.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/murcielago.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/NubeA.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/NubeB.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/Rayo.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/Vacas.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/bomba.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/golpeS.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/gritoS.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/raymanS.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/saltar1.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/saltar2.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/smile1.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Audio/ticks.wav</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/bolitadebarro.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/Cuervo.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/Disparo.png</File>
+    <File>C:/Users/valfonzo/Downloads/VacaVoladora/VacaVoladora/Content/Images/chickenJuego.png</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Audio/musicaS.mp3</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Audio/raymanS.wav</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Audio/saltar1.wav</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Audio/saltar2.wav</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Audio/smile1.wav</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Audio/ticks.wav</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Audio/explosionS.wav</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Audio/golpeS.wav</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Audio/gritoS.wav</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Images/FondoA.png</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Images/NubeA.png</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Images/NubeB.png</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Images/Vacas.png</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Images/bomba.png</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Images/Disparo.png</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Images/explosion.png</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Audio/Laser.wav</File>
+    <File>D:/ProgramacionAplicada/VacaVoladora/VacaVoladora/Content/Fonts/Verdana</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

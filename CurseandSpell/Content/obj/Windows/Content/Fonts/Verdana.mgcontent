@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Fonts/Verdana</SourceFile>
+  <SourceTime>2018-11-09T19:12:02-03:00</SourceTime>
+  <DestFile>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/bin/Windows/Content/Fonts/Verdana.xnb</DestFile>
+  <DestTime>2019-11-15T13:36:48.2396589-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-23T18:55:52-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-23T18:55:52-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

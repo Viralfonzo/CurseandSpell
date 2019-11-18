@@ -1,0 +1,254 @@
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\VacaVoladora.exe
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\VacaVoladora.pdb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csprojAssemblyReference.cache
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CoreCompileInputs.cache
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CopyComplete
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.exe
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.pdb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\bomba.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\disparo.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\FondoA.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeA.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeB.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Vacas.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\explosionS.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\golpeS.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\gritoS.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.wma
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\raymanS.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar1.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar2.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\smile1.xnb
+C:\Users\aebarrios\Documents\Facultad\2º Cuatrimestre 2\Programacion aplicada - Viernes\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\ticks.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\explosionS.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\golpeS.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\gritoS.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.wma
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\raymanS.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar1.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar2.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\smile1.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\ticks.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\bomba.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Disparo.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\FondoA.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeA.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeB.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Vacas.xnb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\VacaVoladora.exe
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\VacaVoladora.pdb
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.dll
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.xml
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csprojAssemblyReference.cache
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CoreCompileInputs.cache
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CopyComplete
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.exe
+D:\ProgramacionAplicada\Final\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.pdb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\bomba.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Disparo.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\FondoA.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeA.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeB.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Vacas.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\explosionS.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\golpeS.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\gritoS.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.wma
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\raymanS.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar1.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar2.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\smile1.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\ticks.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\VacaVoladora.exe
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\VacaVoladora.pdb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.dll
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.xml
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csprojAssemblyReference.cache
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CoreCompileInputs.cache
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CopyComplete
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.exe
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.pdb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\Laser.xnb
+D:\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Fonts\Verdana.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\bomba.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Disparo.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\FondoA.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeA.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeB.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Vacas.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Fonts\Verdana.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\explosionS.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\golpeS.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\gritoS.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\Laser.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.wma
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\raymanS.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar1.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar2.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\smile1.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\ticks.xnb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\VacaVoladora.exe
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\VacaVoladora.pdb
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.dll
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.xml
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csprojAssemblyReference.cache
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CoreCompileInputs.cache
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CopyComplete
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.exe
+C:\Disco_D\ProgramacionAplicada\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.pdb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\FondoA.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeA.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeB.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Vacas.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Fonts\Verdana.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\explosionS.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.wma
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar1.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar2.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\VacaVoladora.exe
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\VacaVoladora.pdb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csprojAssemblyReference.cache
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CoreCompileInputs.cache
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CopyComplete
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.exe
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\obj\x86\Debug\VacaVoladora.pdb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\chickenJuego.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\murcielago.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaambientalbruja.wma
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaambientalbruja.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Fantasma.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Rayo.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\gritodebruja.xnb
+C:\Users\valfonzo\Downloads\VacaVoladora\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\Hechizo.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Images\chickenJuego.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.wma
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaS.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar1.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\saltar2.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Fantasma.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Images\FondoA.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Images\murcielago.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeA.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Images\NubeB.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Rayo.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Images\Vacas.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Fonts\Verdana.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\explosionS.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\gritodebruja.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\Hechizo.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaambientalbruja.wma
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\Content\Audio\musicaambientalbruja.xnb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\obj\x86\Debug\VacaVoladora.csprojAssemblyReference.cache
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CoreCompileInputs.cache
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\obj\x86\Debug\VacaVoladora.csproj.CopyComplete
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\CurseandSpell.exe
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\bin\Windows\x86\Debug\CurseandSpell.pdb
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\obj\x86\Debug\CurseandSpell.exe
+C:\Users\valfonzo\Desktop\CurseandSpell\VacaVoladora\obj\x86\Debug\CurseandSpell.pdb

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Audio/explosionS.wav</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Audio/gritodebruja.wav</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Audio/Hechizo.wav</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Audio/musicaambientalbruja.mp3</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Fonts/Verdana</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/Brujita.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/explosion.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/Fantasma.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/FondoA.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/murcielago.png</File>
+    <File>C:/Users/valfonzo/Desktop/CurseandSpell/CurseandSpell/Content/Images/Rayo.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
